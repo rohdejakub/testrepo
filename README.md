@@ -1,2 +1,2 @@
-# test
+# My gi trainig
 test app
